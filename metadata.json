@@ -1,0 +1,6 @@
+{
+  "name": "Nibedita Academy",
+  "description": "Official website for Nibedita Academy, established in 2000. Features online admissions, academic programs, principal message from Parimal Ranjan Das, notices, and parent portal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
